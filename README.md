@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me: sontii78@gmail.com
 
-my portfolio page: https://sontii-portfolio.netlify.app/
+my portfolio page: https://sontii.com
 
 Tenzies is live at: https://tenzies-react-sontii.netlify.app/
 code: https://github.com/sontii/tenzies-react
